@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            David Soergel
+tagline:          
+url:              http://davidsoergel.com
+paginate:         1
+baseurl:          /
+author:
+  name:           David Soergel
+  url:            http://davidsoergel.com
+  email:          dev@davidsoergel.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
